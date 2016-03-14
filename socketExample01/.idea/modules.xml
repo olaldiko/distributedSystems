@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalculusServer/CalculusServer.iml" filepath="$PROJECT_DIR$/CalculusServer/CalculusServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EcoCliente/EcoCliente.iml" filepath="$PROJECT_DIR$/EcoCliente/EcoCliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EcoCliente/EcoServer.iml" filepath="$PROJECT_DIR$/EcoCliente/EcoServer.iml" />
+    </modules>
+  </component>
+</project>

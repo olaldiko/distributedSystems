@@ -1,0 +1,7 @@
+Frogatzeko:
+Zerbitzaria localhost-en eta 6000 portuan.
+Bezeroak 5000 portura konektatzen dira.
+Herculesekin frogatu egin dut funtzionamendua.
+http://www.hw-group.com/products/hercules/index_es.html
+
+Batetik bestera bidaltzen ditu paketeak eta nahiz eta bezeroa deskonektatu, programak funtzionatzen jarraitzen du.
